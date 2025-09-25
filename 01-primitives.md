@@ -97,8 +97,5 @@ Scanner scan = new Scanner(System.in);
 
 2. <img width="436" height="443" alt="Screenshot 2025-09-24 9 40 52 PM" src="https://github.com/user-attachments/assets/33ac9cd9-6f38-4210-9507-5742c10892d6" />
 
-3. to store the response to a yes or no question, strings are not the most effective option 
-
-
-3. 
+3. to store the response to a yes or no question, strings are not the most effective option  
 
