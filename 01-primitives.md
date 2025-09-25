@@ -54,3 +54,39 @@ while the fourth integer came out correctly, the third and second were the same,
       
 
 ```
+
+### Challenge 2
+
+my second challenge was a similar problem, specifically lesson 6 activity 3, but unlike before i already had some semblance of how to move the integers to the right place and isolaye them. I knew this time we were multiplying and THEN using modular division, but i had used the wrong numbers. 
+
+``` java
+
+    Scanner scan = new Scanner(System.in);
+    System.out.println("Please input a decimal number: ");
+  
+    double dec = scan.nextDouble();
+    double newdec = ((double) dec - (int) dec);
+    int one = ((int) (newdec * 10));
+    int two = ((int) ((newdec * 10) % 100));
+    int three = ((int) ((newdec * 100) % 100));
+    
+    System.out.print("Answer: " + one + " " + two + " " + three);
+
+```
+
+I found that doing the math mentally via the search bar really helped, as it helped me realize that the same process we did in lesson 5 was this problem but division rather than multiplication. 
+
+``` java
+
+Scanner scan = new Scanner(System.in);
+    System.out.println("Please input a decimal number: ");
+  
+    double dec = scan.nextDouble();
+    double newdec = ((double) dec - (int) dec);
+    int one = ((int) (newdec * 10));
+    int two = ((int) ((newdec * 100) % 10));
+    int three = ((int) ((newdec * 1000) % 10));
+    
+    System.out.print("Answer: " + one + " " + two + " " + three);
+
+```
