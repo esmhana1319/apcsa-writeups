@@ -7,6 +7,30 @@
 
 Off the bat, we learn the beginning aspects of Java, which is intensively similar to the JS we learnt last year. Only there are more parts to keep track of in terms of variables and their sizes, methods, and castings. 
 
+1. When ran, it will print hello world and enter: 
+  ```System.out.println("Hello World"); ```
+
+2. Scans the user 
+```Scanner scan = new Scanner(System.in);```
+
+3. Declares a string variable (stores strings just like javascript) 
+```String n;```
+
+4. Declares a integer variable (Cannot store decimals)
+```int n;```
+
+5. Declares a double variable (can store decimals)
+```double n;```
+
+6. Declares a boolean variable (true or false statements) 
+```boolean n;```
+
+7. Scans the next lines content and inputs it into the variable made
+```  n = scan.nextLine();```
+
+
+
+
 #### Challenge 1 
 
 my first challenge came up in lesson 5 activity 2, where we had to use modular division to get each individual integer from a four digit number. My code, which looked something like this, was a clear indicator that i didnt understand that i also needed regular division. 
