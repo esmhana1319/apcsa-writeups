@@ -90,3 +90,15 @@ Scanner scan = new Scanner(System.in);
     System.out.print("Answer: " + one + " " + two + " " + three);
 
 ```
+
+## Quiz takeaways 
+
+1. Primitive data types include stuff like doubles integers and booleans; they have no methods attached unlike non primitive data types
+
+2. <img width="436" height="443" alt="Screenshot 2025-09-24 9 40 52 PM" src="https://github.com/user-attachments/assets/33ac9cd9-6f38-4210-9507-5742c10892d6" />
+
+3. to store the response to a yes or no question, strings are not the most effective option 
+
+
+3. 
+
