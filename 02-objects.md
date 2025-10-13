@@ -43,10 +43,29 @@ Explanation - the 4 and 5 aren't added together manually because its interpreted
 
 My other challenges came up with activity 2, in which my code kept returning errors because of small typos in variable names that were called in later sections. My most stressful error though was with a small typo in my output, that kept making me fail 3 tests. 
 
+```java
+    System.out.println("New Distances:");
+    distDiff1 = plane1.distTo(plane2); 
+    System.out.println("The distance between Airplane 1 and Airplane 2 is " + distDiff1 + " miles.");
+    distDiff2 = plane1.distTo(plane3); 
+    System.out.println("The distance between Airplan 1 and Airplane 3 is " + distDiff2 + " miles.");
+    distDiff3 = plane2.distTo(plane3); 
+    System.out.println("The distance between Airplane 2 and Airplane 3 is " + distDiff3 + " miles.");
+    System.out.println("");
 ```
 
+This specific snippet kept bringing me back the same error, and really in this situation i shouldve input the outputs with a website that compared the characters, but instead i went through all of my code manually to look for the typo. :((
 
 
+### Takeaways
+
+1. String concatenation is important in determining when math equations are in the same print function. If not properly done theyll be printed together
+   
+2. null is used to make something empty and have no reference
+   
+3. Make sure your output matches the prompt exactly; use a website, dont proofread manually
+   
+4. Variable names should be short and brief whilst also being specific enough; dont make variables that are easy to spell wrong  
 
 
 
