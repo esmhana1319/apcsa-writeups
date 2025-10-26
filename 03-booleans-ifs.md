@@ -66,3 +66,10 @@ Which of the following is an example of short circuit evaluation?
 For this question, i answered "if a != b is false it evaluates c < d" on the basis that i read it incorrectly; which admittedly i was salty about but its a great reminder to read the solutions im picking carefully to make sure theyre the correct ones. 
 
 ### Takeaways 
+
+1. when comparing strings, use ```equals``` rather than == when they dont point to the same reference; remember that the == will only work in situations where one string is equal to the other strings reference
+   
+2. via short circuit evaluation, make sure the option youre choosing shares the exact same outputs as the example provided; this can be via truth tables or what i learnt in unit 4 just today, trace tables.
+   
+3. read the options carefully; for context this is the second time i got a question incorrect because i didnt read carefully enough :O
+   
