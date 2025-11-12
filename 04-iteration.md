@@ -33,7 +33,7 @@ for instance, this nested loop from activity 1 in lesson five. The middle code w
    * i got 9. wrong because i didnt acknowledge that option I would print an unnecessary output of 45
 In other words, from this i found that i needed to create a deeper understanding of HOW these loops iterate via comparing outputs and singling out the correct option
 2. My second challenge came with activity 2 on lesson 5. Although my output was correct, i was still recieving a 50. After checking my code with python tutor, i removed a space from my last line out of curiousity, which gave me the needed 100%.
-   ```java
+```java
 
    import java.util.Scanner;
 
