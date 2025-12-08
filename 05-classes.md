@@ -1,7 +1,7 @@
 ## APCSA
 ## Esmhan Awadh
 ## 12/7/2025
-## classes writeup 
+## Classes Writeup 
 
 ### INTRO TO CLASSES 
 
