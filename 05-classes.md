@@ -63,14 +63,14 @@ if (maxTemperature > 0 && maxTemperature <= 500){
     }
 ```
 vs. 
-
+```java
 if (maxTemp > 0 && maxTemp <= 500){
      this.maxTemp = maxTemp;
     }
     else{
       maxTemp = 500;
     }
-
+```
 
 My next trouble came during the Unit Exam, where i had the most struggles with questions 8, 10, 11, and 20. 
 
