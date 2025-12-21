@@ -37,9 +37,19 @@ specific indexes, which start with 0 first and foremost, can be directly changed
 3. My last challenge this unit came via the final exam with questions 3, 8, and 20.
 
   the correct answer for three was: 
-<img width="251" height="135" alt="Screenshot 2025-12-21 at 6 02 19 PM" src="https://github.com/user-attachments/assets/26f9a8aa-48cc-49b8-8afd-03d7142694a6" />
+  
+  <img width="251" height="135" alt="Screenshot 2025-12-21 at 6 02 19 PM" src="https://github.com/user-attachments/assets/26f9a8aa-48cc-49b8-8afd-03d7142694a6" />
+  
   because we are trying to print numbers divisible by three rather than the indices 
 
   the correct answer for eight was: "Returns true if each element of the array is greater than the element after." as false is returned only if the selected element is less than the previous; making sure the array is in ascending order 
 
-  the correct answer for twenty was: "12" as 
+  the correct answer for twenty was: "9" as the count of how much times a number is repeated is added on to the variable printed. 
+
+### TAKEAWAYS 
+
+1. Know when a question is asking for the indices or the values
+
+2. Check your loops and variables to make sure they work properly as intended: a good way i touched on this issue in previous units was via the stack and heap method i learned in a review video
+
+3. read loops and booleans in multiple choice questions carefully, make sure you know what they are asking for and what theyre doing before you come up with an answer essie :0 
