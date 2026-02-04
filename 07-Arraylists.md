@@ -41,9 +41,15 @@ For this question, i ultimately chose this answer; which was wrong as the method
 For this question on the other hand, i didnt take into consideration what the final outcome for each would be, and how it solidified the objective of the code. I assumed that because the statement would remove any duplicates, that it worked for all list pairs; it did not 
 <img width="579" height="483" alt="Screenshot 2026-02-04 at 7 29 09 AM" src="https://github.com/user-attachments/assets/dd3760db-e2de-4ee7-8e03-2329793cd1d9" />
 
-For this question, i incorrectly did my process of elimination, aswell as misunderstood what the third change would do. The third change incorrectly sorts the values to higher indices rather than lower ones; Although i understood that the second change was correct, i didnt see the inherent problem with the third and first together. 
+For this question, i incorrectly did my process of elimination, aswell as misunderstood what the third change would do. The third change incorrectly sorts the values to higher indices rather than lower ones; Although i understood that the second change was correct, i didnt see the inherent problem with the third and first together.
+
 <img width="586" height="595" alt="Screenshot 2026-02-04 at 7 30 39 AM" src="https://github.com/user-attachments/assets/cb97f9c0-ef22-47bd-8611-0efa95e15b9f" />
 
 For my presentation for the last two of the questions i went over, i tried targetting specific parts of the problem and methods i used to better understand its context. I think this worked well in getting the point across, but something i noticed i struggle with is delivering information at a good pace. Sometimes i take too long to explain something that may or may not be irrelavent and lose time to explain the next parts; for the future, that is something ill pay attention to. 
 
 ### TAKEAWAYS 
+
+1. Always pay attention to the comments left in code; especially for exam questions, this can be used to save time as usually its a summary of what the code does.
+2. Read exam questions closely, dont waste too much time trying to piece apart how it works and focus more on understanding what its asking for.
+3. Use process of elimination to save more time when answering, oftentimes questions will overlap leaving room for one correct answer
+4. When presenting or teaching, try to keep track of how much time you have so you dont drag on a topic for too long. 
