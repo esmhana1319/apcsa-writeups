@@ -45,18 +45,25 @@ for (const row : nums) {
 
 ### CHALLENGES 
 
-1. <img width="827" height="563" alt="Screenshot 2026-03-01 at 9 14 57 PM" src="https://github.com/user-attachments/assets/f944286a-067d-4e23-a75f-96271f8eda36" />
+1.
+   <img width="827" height="563" alt="Screenshot 2026-03-01 at 9 14 57 PM" src="https://github.com/user-attachments/assets/f944286a-067d-4e23-a75f-96271f8eda36" />
 
 This third question on the AP Classroom review was something that opened my eye to a struggle I had to touch on before the exam. I had answered 15 which came out as incorrect but there was little to no explanation as to why. When I looked further I realized that I was adding up the row, not the column. I looked down at my cheat sheet for the exam that day and then also realized that the examples that I had written were, too, also swapping the col and row. With some quick reminders from Xin and Kiara, I debreifed the question with them and also corrected my own resource for the test. 
 
-2. The two exam questions I had gotten incorrect were also something I sought to touch up on. 
+2. The two exam questions I had gotten incorrect were also something I sought to touch up on.
+   
 <img width="595" height="505" alt="Screenshot 2026-03-01 at 9 19 45 PM" src="https://github.com/user-attachments/assets/5447913f-cb4c-49b6-91a4-d1235e917bea" />
+
 <img width="591" height="474" alt="Screenshot 2026-03-01 at 9 19 36 PM" src="https://github.com/user-attachments/assets/959b7463-787a-4445-8a03-7df74d9dd5bb" />
 
-  18. <img width="271" height="112" alt="Screenshot 2026-03-01 at 9 22 14 PM" src="https://github.com/user-attachments/assets/b583b8e4-8c9c-42fc-9633-f1f6df1563be" />
+
+  18.
+      <img width="271" height="112" alt="Screenshot 2026-03-01 at 9 22 14 PM" src="https://github.com/user-attachments/assets/b583b8e4-8c9c-42fc-9633-f1f6df1563be" />
       Ultimately the reason why this would point to the correct answer is because it states that if the current iterated value is less than the value saved as the current minimum, it would update the value and the result variable to point towards its respective column; this is why its important to read questions, because not only did i interpret it entirely opposite, but i also rushed myself out of stress to complete my test in time
 
-  20. <img width="273" height="88" alt="Screenshot 2026-03-01 at 9 25 52 PM" src="https://github.com/user-attachments/assets/afa18304-7b08-4c45-9a9d-6ef79352bdd3" />
+  20.
+      <img width="273" height="88" alt="Screenshot 2026-03-01 at 9 25 52 PM" src="https://github.com/user-attachments/assets/afa18304-7b08-4c45-9a9d-6ef79352bdd3" />
+      
     the reason why this answer was correct was because the variable num itself pointed to the correct variable that represented the current iterated value; if this value was less than the minimum it would be updated to num.
 
 3. Presentations
