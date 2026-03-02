@@ -59,12 +59,13 @@ This third question on the AP Classroom review was something that opened my eye 
 
   18.
       <img width="271" height="112" alt="Screenshot 2026-03-01 at 9 22 14 PM" src="https://github.com/user-attachments/assets/b583b8e4-8c9c-42fc-9633-f1f6df1563be" />
-      Ultimately the reason why this would point to the correct answer is because it states that if the current iterated value is less than the value saved as the current minimum, it would update the value and the result variable to point towards its respective column; this is why its important to read questions, because not only did i interpret it entirely opposite, but i also rushed myself out of stress to complete my test in time
+
+Ultimately the reason why this would point to the correct answer is because it states that if the current iterated value is less than the value saved as the current minimum, it would update the value and the result variable to point towards its respective column; this is why its important to read questions, because not only did i interpret it entirely opposite, but i also rushed myself out of stress to complete my test in time
 
   20.
-      <img width="273" height="88" alt="Screenshot 2026-03-01 at 9 25 52 PM" src="https://github.com/user-attachments/assets/afa18304-7b08-4c45-9a9d-6ef79352bdd3" />
+      <img width="273" height="88" alt="Screenshot 2026-03-01 at 9 25 52 PM" src="https://github.com/user-attachments/assets/afa18304-7b08-4c45-9a9d-6ef79352bdd3"/>
       
-    the reason why this answer was correct was because the variable num itself pointed to the correct variable that represented the current iterated value; if this value was less than the minimum it would be updated to num.
+The reason why this answer was correct was because the variable num itself pointed to the correct variable that represented the current iterated value; if this value was less than the minimum it would be updated to num.
 
 3. Presentations
      I tried to take my takeaways from last time and breifly explain during the debreif while saving time and capturing important details, but one thing I should totally improve for next time is trying to better focus on the bigger aspect of the problem to properly clear up what people who are also confused about the problem have trouble with. Also try to not get distracted or sidetracked with silly stuff :0
