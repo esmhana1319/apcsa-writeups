@@ -108,6 +108,23 @@ public class MergeSort {
 
 I got a lot of questions wrong on this exam because id either read questions and not understand their functions, or because i had rushed to find an answer to save time and ultimately missed an important part. For the debrief i went over two different questions, one i had gotten correct and the other that was incorrect. 
 
-7. !()[slide7.png]
-16. !()[slide16.png]
+7.
+   ![](slide7.png)
+This question was one of the ones that really shouldve been an easy couple points but one that I made a silly mistake on. I was very new to making slides for an exam debrief so i tried to take some of the takeaways from my last couple presentations and single the information down to keywords and signs that stuck out to me rather than trying to spend time demoing on the board (for more complicated questions this method does help me break things down)
 
+Here i emphasized that the variable middle and the values being made equal to one another within conditionals and loops served as indicators that merge sort was occuring rather than binary search 
+
+
+16.
+    ![](slide16.png)
+This question was one of the ones I speedrun, but for good reason i swear. There were a couple similar questions on the review and the quiz to this so i was able to get the gist of what the function was doing very quickly.
+
+On the slide i mark down num>15 and the print statement occuring after the recursion call; here i concluded that wed keep doing the equation until the base case was met and then count down from multiples of three from our last solution of 12
+
+### TAKEAWAYS
+
+1. debreif slides should be quick and brief, try to also demo the functions more clearer
+
+2. make sure to *carefully* solve recursion problems as to not miss important information on what gets printed and what doesnt
+
+3. MERGE SORT AND BINARY R NOT THE SAME :(((( they serve two separate functions, just both use middle variables, splitting, and recursion 
