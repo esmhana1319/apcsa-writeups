@@ -24,4 +24,30 @@ public int fibonacci(int n)  {
 if the base cases arent met, the function calls itself again, meaning recursive functions can be used in place of basic loops required for sorting and searching for indexes or values. For instance, Binary search algorithms
 
 
+```java
+public class RecursiveBinarySearch {
+
+    public static int binarySearch(int[] arr, int target) {
+        return binarySearch(arr, 0, arr.length - 1, target);
+    }
+
+    private static int binarySearch(int[] arr, int low, int high, int target) {
+        if (low > high) {
+            return -1;
+        }
+
+        int mid = low + (high - low) / 2;
+
+        if (arr[mid] == target) {
+            return mid;
+        } else if (arr[mid] > target) {
+            return binarySearch(arr, low, mid - 1, target);
+        } else {
+            return binarySearch(arr, mid + 1, high, target);
+        }
+    }
+}
+
 ```
+
+
