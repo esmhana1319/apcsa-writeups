@@ -108,6 +108,6 @@ public class MergeSort {
 
 I got a lot of questions wrong on this exam because id either read questions and not understand their functions, or because i had rushed to find an answer to save time and ultimately missed an important part. For the debrief i went over two different questions, one i had gotten correct and the other that was incorrect. 
 
-7. ()[slide7.png]
-16. ()[slide16.png]
+7. !()[slide7.png]
+16. !()[slide16.png]
 
