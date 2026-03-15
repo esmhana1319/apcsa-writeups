@@ -100,7 +100,14 @@ public class MergeSort {
     }
 
 ```
-1. merge sorts have a middle value, but no target value
-2. they have a similar value to low and high, but this focuses on the low half and the high half 
+1. Merge sorts have a middle value, but no target value
+2. They have a similar variable to the previous low and high, but this focuses on the low half and the high half
+3. Merge sorts divide in order to sort numbers in order, usually ascending
+
+### CHALLENGES 
+
+I got a lot of questions wrong on this exam because id either read questions and not understand their functions, or because i had rushed to find an answer to save time and ultimately missed an important part. For the debrief i went over two different questions, one i had gotten correct and the other that was incorrect. 
+
+
 
 
