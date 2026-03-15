@@ -50,4 +50,57 @@ public class RecursiveBinarySearch {
 
 ```
 
+For some reason github wont upload any of my files as screenshota visible here which is incredibly dissapointing, so instead of my drawn example of what this code should look like ill sadly have to describe it here. 
+1. Binary search must be in descending to ascending order to function correctly.
+2. An indicator of Binary search being used within a problem on the AP exam can be seen within the use of mid and *target* variables (or something along the lines with a similar value used within the alg
+3. a conditional recursion statement that changes the low or high values based on the location of target relative to the mid value
+
+Similar to Binary search, Merge Sort has a middle value (this will be important later) 
+Merge sort looks something like this
+
+```java
+public class MergeSort {
+
+    public static void mergeSort(int[] array) {
+        if (array.length < 2) {
+            return; 
+        }
+        int mid = array.length / 2;
+        int[] leftHalf = new int[mid];
+        int[] rightHalf = new int[array.length - mid];
+
+        for (int i = 0; i < mid; i++) {
+            leftHalf[i] = array[i];
+        }
+        for (int i = mid; i < array.length; i++) {
+            rightHalf[i - mid] = array[i];
+        }
+
+        mergeSort(leftHalf);
+        mergeSort(rightHalf);
+        merge(array, leftHalf, rightHalf);
+    }
+
+    private static void merge(int[] array, int[] leftHalf, int[] rightHalf) {
+        int i = 0, j = 0, k = 0;
+        
+        while (i < leftHalf.length && j < rightHalf.length) {
+            if (leftHalf[i] <= rightHalf[j]) {
+                array[k++] = leftHalf[i++];
+            } else {
+                array[k++] = rightHalf[j++];
+            }
+        }
+        while (i < leftHalf.length) {
+            array[k++] = leftHalf[i++];
+        }
+        while (j < rightHalf.length) {
+            array[k++] = rightHalf[j++];
+        }
+    }
+
+```
+1. merge sorts have a middle value, but no target value
+2. they have a similar value to low and high, but this focuses on the low half and the high half 
+
 
